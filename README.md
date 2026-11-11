@@ -5,7 +5,7 @@ CS and Mathematics graduate of the American University in Cairo (GPA 3.7). Now d
 ## Research
 - **Quantum optimization for access point selection in indoor localization**, published at IEEE: [Quantum-Optimization-In-AP-Selection](https://github.com/khalilbrikTN/Quantum-Optimization-In-AP-Selection)
 - **Senior thesis** on quantum annealing for WiFi-based indoor localization: [Thesis-2-Full-Submission](https://github.com/khalilbrikTN/Thesis-2-Full-Submission)
-- **LLM research** at AUC: [BRIK_LLM_Research](https://github.com/khalilbrikTN/BRIK_LLM_Research), [Reviews_Research_LLM](https://github.com/khalilbrikTN/Reviews_Research_LLM)
+- **LLM research** at AUC
 - **Hybrid feature engineering for number theoretic functions** with neural networks, paper code: [NumberTheory-ML-Features](https://github.com/khalilbrikTN/NumberTheory-ML-Features)
 
 ## Selected projects
