@@ -6,12 +6,12 @@ CS and Mathematics graduate of the American University in Cairo (GPA 3.7). Now d
 - **Quantum optimization for access point selection in indoor localization**, published at IEEE: [Quantum-Optimization-In-AP-Selection](https://github.com/khalilbrikTN/Quantum-Optimization-In-AP-Selection)
 - **Senior thesis** on quantum annealing for WiFi-based indoor localization: [Thesis-2-Full-Submission](https://github.com/khalilbrikTN/Thesis-2-Full-Submission)
 - **LLM research** at AUC: [BRIK_LLM_Research](https://github.com/khalilbrikTN/BRIK_LLM_Research), [Reviews_Research_LLM](https://github.com/khalilbrikTN/Reviews_Research_LLM)
+- **Hybrid feature engineering for number theoretic functions** with neural networks, paper code: [NumberTheory-ML-Features](https://github.com/khalilbrikTN/NumberTheory-ML-Features)
 
 ## Selected projects
 - [Internship-auclibrary-website-api-data-integration](https://github.com/khalilbrikTN/Internship-auclibrary-website-api-data-integration): Python and Pandas system that matches AUC's 500,000 printed books against HathiTrust and Open Library through their APIs
 - [Custodian_IAM](https://github.com/khalilbrikTN/Custodian_IAM): identity access management web app built with Django
 - [AI-Competition-Beltone](https://github.com/khalilbrikTN/AI-Competition-Beltone): solver for the Beltone AI hackathon logistics routing challenge
-- [OS-Project-Linux-Process-Manager](https://github.com/khalilbrikTN/OS-Project-Linux-Process-Manager): Linux process manager written in Rust
 
 ## Experience
 - Co-Founder and AI Engineer, The AI Company: production LLM agents
