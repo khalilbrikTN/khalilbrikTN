@@ -9,8 +9,8 @@ CS and Mathematics graduate of the American University in Cairo (GPA 3.7). Now d
 
 ## Selected projects
 - [Internship-auclibrary-website-api-data-integration](https://github.com/khalilbrikTN/Internship-auclibrary-website-api-data-integration): Python and Pandas system that matches AUC's 500,000 printed books against HathiTrust and Open Library through their APIs
-- [Custodian_IAM](https://github.com/khalilbrikTN/Custodian_IAM): identity access management software
-- [AI-Competition-Beltone](https://github.com/khalilbrikTN/AI-Competition-Beltone): machine learning competition entry
+- [Custodian_IAM](https://github.com/khalilbrikTN/Custodian_IAM): identity access management web app built with Django
+- [AI-Competition-Beltone](https://github.com/khalilbrikTN/AI-Competition-Beltone): solver for the Beltone AI hackathon logistics routing challenge
 - [OS-Project-Linux-Process-Manager](https://github.com/khalilbrikTN/OS-Project-Linux-Process-Manager): Linux process manager written in Rust
 
 ## Experience
